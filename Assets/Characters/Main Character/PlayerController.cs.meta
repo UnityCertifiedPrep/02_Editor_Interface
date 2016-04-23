@@ -1,6 +1,9 @@
 fileFormatVersion: 2
-guid: 9b0d62a71b1a2bb4991f3b273cbd1cc9
-timeCreated: 1461091103
+guid: e70ffdf99c7bad6439907604795a3fc3
+labels:
+- Character
+- Audio
+timeCreated: 1461419538
 licenseType: Free
 MonoImporter:
   serializedVersion: 2
