@@ -91,6 +91,3 @@
 + Navigate through the 3D view.
 + Build games from the asset store.
 + Project based sections will be later in the course.
-
----
-Find out more about our [Unity Certification Preparation Course](https://www.udemy.com/unitycert?couponCode=GitHubDiscount).
